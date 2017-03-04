@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+body{
+text-align: center;
+margin: 70px auto;
+}
+.block {
+  background: #ffffff;
+width: 600px;
+padding: 60px;
+border: 10px solid #cccccc;
+margin: 40px auto;
+}
+.pagetop {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.pagetop a {
+  display: inline-block;
+  color: #fff;
+  font-size: 1.2em;
+  padding: 6px 2em 4px;
+  border-radius: 4px 4px 0 0;
+  background: #000;
+}
+hr {
+height: 3px;
+background-color: #0077ff;
+border: none;
+color: #ff0000;
+}

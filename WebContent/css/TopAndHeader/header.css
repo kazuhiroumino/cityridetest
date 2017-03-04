@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.headertable {
+	text-align: center;
+	height:100px;
+	width:100%;
+}
+.header0 {
+	display: table;
+	margin-left: auto;
+	margin-right: 35px;
+}
+.header1 {
+	display: table;
+	margin-left: auto;
+	margin-right: 35px;
+}
+
+button.header2 {
+	width:200px;height:40px;
+	font-size: 1.2em;
+    font-weight: bold;
+
+}

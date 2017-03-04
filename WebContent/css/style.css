@@ -1,0 +1,69 @@
+@CHARSET "UTF-8";
+
+
+
+body {
+}
+
+a:link {
+	color:#ffffff;
+	text-decoration:none;
+ }
+a:visited {
+	color:#ffffff;
+	text-decoration:none;
+}
+.admin_header {
+	width: 1200px;
+	float: left;
+}
+
+.admin-navi {
+	list-style:none;
+}
+li {
+	background:#0077ff;
+	color:#ffffff;
+	float: left;
+
+	padding:20px;
+	margin:10px;
+}
+
+.main {
+	float:left;
+	width:1200px;
+}
+
+#menu_left {
+	float:left;
+	width:900px;
+}
+#menu_right {
+	float:right;
+	width:50%;
+}
+
+#img_add {
+
+}
+
+#info_add {
+
+}
+#discription {
+
+}
+
+#add_button {
+
+}
+
+#updated_data {
+	float:left;
+	width:500px;
+	height:100px;
+}
+.zenbu{
+	width:900px;
+}

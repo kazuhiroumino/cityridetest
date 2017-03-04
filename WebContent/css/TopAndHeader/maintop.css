@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+
+
+#top_img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	height:360px;
+	align:center;
+}
+#top_table1{
+	height : 471px;
+}
+
+.topic{
+	color:#007fff;
+}
+
+#tokushu{
+	width:450px;
+	height:300px;
+
+}
+.top_table0{
+	width : 1000px;
+	border : 10px solid #007fff;
+}
+#menu{
+	height : 300px;
+	padding : 20px;
+	border-style : none;
+}
+
+header{
+	vertical-align:top;
+}
+#main_foot{
+	margin:0 auto;
+}

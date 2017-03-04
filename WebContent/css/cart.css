@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+.cart{
+	align: right;
+}
+.center{
+	text-align: center;
+}
+
+.table_dt{
+	border: #007fff 10px solid;
+	margin : 0 auto;
+}
+
+.cart_cell{
+	width : 200px;
+	height : 300px;
+	padding : 10px;
+	margin : 0 auto;
+}
+
+.linedot{
+	list-style:none;
+}
+

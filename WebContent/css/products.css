@@ -1,0 +1,29 @@
+
+/*----------è§ïiè⁄ç◊ÇÃCCS-----------*/
+
+@CHARSET "UTF-8";
+.productdetail{
+	width:400px;
+	border:1px double #007fff;
+}
+.sample1-1{
+	border:5px solid #0077ff;
+	 padding:10px;
+	 display:inline-block;
+}
+.sample1-2{
+	border:1px double;
+}
+.sample1-3{
+	font-size:20px;
+}
+.sample1-4{
+	border-bottom:5px solid #0077ff;
+}
+.sample1-5{
+	margin:0 auto;
+}
+.sample1-6{
+	width:200px;
+	text-align:center;
+}

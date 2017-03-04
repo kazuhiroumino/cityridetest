@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+.inquiry{
+	border:4px groove;
+	width:500px;
+}
+.inqdata1{
+	min-height:15px;
+	font-size:15px;
+	width:150px;
+	border-right:4px groove;
+	border-bottom:4px groove;
+}
+.inqdata2{
+	font-size:15px;
+	width:350px;
+	border-bottom:4px groove;
+}
+.inqdata3{
+	font-size:15px;
+	height:100px;
+}
+.inqdata4{
+	width:500px;
+	font-size:15px;
+	border-bottom:4px groove;
+}
+.div1{
+	float:right;
+
+}
+.div{
+	width:800px;
+}

@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+ul {
+    list-style: none;
+    width:400px;
+}
+#wakuwaku{
+	border: #007fff 10px solid;
+}

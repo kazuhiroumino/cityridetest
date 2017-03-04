@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+#table_comp{
+	border: 10px #007fff solid;
+	margin : 0 auto
+
+}
+#table_cell{
+	width : 400px;
+	height : 150px;
+	padding : 20px;
+}
+.comp_center{
+	 text-align: center;
+}

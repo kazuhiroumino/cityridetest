@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+.ccc{
+  background: #ffffff;
+width: 500px;
+height:475px;
+padding: 10px;
+text-align: center;
+border: 10px solid #cccccc;
+margin: 0px auto;
+}
+hr {
+height: 3px;
+background-color: #0077ff;
+border: none;
+color: #ff0000;
+}

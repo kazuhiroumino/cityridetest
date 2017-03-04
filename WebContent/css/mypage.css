@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+.aaa{
+text-align: center;
+margin: 0px auto;
+}
+
+.aaa th {
+background-color: #bde9ba;
+width:150px;
+height:40px;
+ }
+
+.aaa td{
+width:500px;
+height:40px;
+ }
+
+
