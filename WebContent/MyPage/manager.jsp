@@ -11,22 +11,23 @@
 
  <body>
 
-<div class="login">
+
 
 
   <h2 class="login-header">管理者専用</h2>
 
-  <form class="login-container">
-    <p><input type="email" placeholder="メールアドレス"></p>
-    <p><input type="password" placeholder="パスワード"></p>
-    <input type="button" value="ログイン" onClick="location.href='../SiteManager/top.jsp'">
-    <!--   <p><input type="submit" value="ログイン"></p>-->
-  </form>
-</div>
+			<s:form action="LoginAction" >
+				<s:textfield name="email"  placeholder="メールアドレス" class="input"/>
+				<s:password name="password"   placeholder="パスワード" class="input"/>
+				<s:submit value="ログイン" class="botton"/>
+			</s:form>
+    <input type="button" value="仮ボタン管理画面移動用(ログイン実装でき次第削除)" onClick="location.href='../SiteManager/top.jsp'">
+<br>
+<br>
 <div align="center">
 <a href="../TopAndHeader/maintop.jsp" color="#0077ff"><font color="#ffffff">TOPへ戻る</font></a>
-
 </div>
+
  </body>
 
 </html>

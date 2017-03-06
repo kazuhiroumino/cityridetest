@@ -42,6 +42,8 @@ body {
 .login-container {
   background: #ebebeb;
   padding: 12px;
+
+
 }
 
 /* Every row inside .login-container is defined with p tags */
@@ -52,19 +54,21 @@ body {
 .login input {
   box-sizing: border-box;
   display: block;
-  width: 100%;
+  width: 420px;
   border-width: 1px;
   border-style: solid;
-  padding: 16px;
+  padding: 15px;
   outline: 0;
   font-family: inherit;
   font-size: 0.95em;
+  margin:10px 0px;
+
 }
 
 .login input[type="email"],
 .login input[type="password"] {
   background: #fff;
-  border-color: #bbb;
+
   color: #555;
 }
 

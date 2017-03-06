@@ -2,7 +2,7 @@
 body {
   background: #433d3c;
 width: 300px;
-padding: 50px;
+padding: 30px;
 text-align: center;
 border: 10px solid #cccccc;
 margin: 120px auto;
@@ -10,4 +10,20 @@ color:#fffffc;
 }
 h2{
 color:#fffffc;
+}
+
+.login p {
+  padding: 12px;
+}
+
+.input {
+  width: 138%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 15px;
+
+}
+
+.botton{
+	margin:0px 11px 0px 0px;
 }
